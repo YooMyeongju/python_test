@@ -23,3 +23,5 @@
 
 # 이름 설정
 # git config --global user.name "이름"
+
+# git log 로그확인
